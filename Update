@@ -1,0 +1,34 @@
+{
+    "manifest": {
+        "author": "jake.brock",
+        "name": "Date",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Jake-brock23\/Aliucord-theme\/main\/images%20(1).jpeg",
+        "overlay_alpha": 0,
+        "blur_radius": 0
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/Kaiso-666\/Kaiso-666\/main\/Fonts\/123Marker.ttf"
+    },
+    "simple_colors": {
+        "accent": -460250697,
+        "active_channel": 1888429769,
+        "background": 0,
+        "background_secondary": 1258291200,
+        "mention_highlight": 1063265432
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -14935609,
+        "uikit_btn_bg_color_selector_red": -7725122
+    },
+    "drawable_tints": {
+        "ic_status_dnd_16dp": -5035992,
+        "ic_status_idle_16dp": -5264095,
+        "ic_status_invisible_16dp": -7369588,
+        "ic_status_online_16dp": -14890293,
+        "ic_status_streaming_16dp": -10870075
+    },
+    "raws": {}
+}
