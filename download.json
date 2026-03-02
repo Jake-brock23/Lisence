@@ -10,8 +10,8 @@
         "Changed UNC to 90%"
     ],
     "windows": {
-        "enabled": true,
-        "direct": "https://example.com/FluxusZ.exe",
+        "enabled": false,
+        "direct": "https://gofile.io/d/m5vE6U",
         "lootlabs": "https://loot-link.com/s?4oCsXNml",
         "linkvertise": "https://linkvertise.com/1176431/bZebOmeLHSdK?o=sharing",
         "workink": "https://work.ink/1UPu/astralise-1"
