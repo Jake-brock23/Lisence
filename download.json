@@ -10,7 +10,7 @@
         "Changed UNC to 90%"
     ],
     "windows": {
-        "enabled": false,
+        "enabled": true,
         "direct": "https://gofile.io/d/m5vE6U",
         "lootlabs": "https://loot-link.com/s?4oCsXNml",
         "linkvertise": "https://linkvertise.com/1176431/bZebOmeLHSdK?o=sharing",
